@@ -34,56 +34,23 @@ Choose **Select a server from the server pool** and pick the server where you wa
 In the **Server Roles** list, check **Active Directory Certificate Services**.
 
 ![CA05](Screnshot/CA05.png)
-
----
-
-## 5. Add Required Features
-When prompted, click **Add Features** to include the necessary components for AD CS.
-
 ![CA06](Screnshot/CA06.png)
-
----
-
-## 6. Advance Through Wizard
-Click **Next** to proceed through the Features and AD CS introduction screens.
-
 ![CA07](Screnshot/CA07.png)
 ![CA08](Screnshot/CA08.png)
-![CA09](Screnshot/CA09.png)
 
 ---
 
-## 7. Select Role Services
+## 7. Select Role Features
 Check **Certificate Enrollment Web Service** to enable web-based certificate enrollment.
 
+![CA09](Screnshot/CA09.png)
 ![CA10](Screnshot/CA10.png)
-
----
-
-## 8. Add Features for Certificate Enrollment Web Service
-Click **Add Features** when prompted for additional components.
-
 ![CA11](Screnshot/CA11.png)
 
----
-
-## 9. Add Web Enrollment Role
 Select **Certification Authority Web Enrollment** for web-based CA requests.
 
 ![CA12](Screnshot/CA12.png)
-
----
-
-## 10. Add Features for Web Enrollment
-When prompted, click **Add Features**.
-
 ![CA13](Screnshot/CA13.png)
-
----
-
-## 11. Continue Installation
-Click **Next** to review and confirm your selections.
-
 ![CA14](Screnshot/CA14.png)
 ![CA15](Screnshot/CA15.png)
 ![CA16](Screnshot/CA16.png)
