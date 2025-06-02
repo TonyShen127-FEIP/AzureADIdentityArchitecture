@@ -39,21 +39,23 @@ In the **Server Roles** list, check **Active Directory Certificate Services**.
 
 ---
 
-## 5. Select Role Features
+## 5. Select Role Features (keep default)
 ![CA08](Screnshot/CA08.png)
 
 ## 6. Select Role Services
+![CA09](Screnshot/CA09.png)
+
 Select **Certification Authority** for certificate issue
 
-![CA09](Screnshot/CA09.png)
 ![CA10](Screnshot/CA10.png)
+![CA11](Screnshot/CA11.png)
 
 Select **Certificate Enrollment Web Service** to enable web-based certificate enrollment.
-![CA11](Screnshot/CA11.png)
+
 ![CA12](Screnshot/CA12.png)
+![CA13](Screnshot/CA13.png)
 
 Select **Certification Authority Web Enrollment** for web-based CA requests.
-![CA13](Screnshot/CA13.png)
 ![CA14](Screnshot/CA14.png)
 ![CA15](Screnshot/CA15.png)
 ![CA16](Screnshot/CA16.png)
