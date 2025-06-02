@@ -2,12 +2,24 @@
 ## Overview
 A Certificate Authority (CA) in Windows Active Directory (AD) is a server that issues and manages digital certificates as part of a Public Key Infrastructure (PKI) environment. These certificates are used for securing communications, authenticating users and devices, enabling smart card logon, securing email, and more.
 
-
-
-
-
-
-
+- [CA01.png](Screnshot/CA01.png)
+- [CA02.png](Screnshot/CA02.png)
+- [CA03.png](Screnshot/CA03.png)
+- [CA04.png](Screnshot/CA04.png)
+- [CA05.png](Screnshot/CA05.png)
+- [CA06.png](Screnshot/CA06.png)
+- [CA07.png](Screnshot/CA07.png)
+- [CA08.png](Screnshot/CA08.png)
+- [CA09.png](Screnshot/CA09.png)
+- [CA10.png](Screnshot/CA10.png)
+- [CA11.png](Screnshot/CA11.png)
+- [CA12.png](Screnshot/CA12.png)
+- [CA13.png](Screnshot/CA13.png)
+- [CA14.png](Screnshot/CA14.png)
+- [CA15.png](Screnshot/CA15.png)
+- [CA16.png](Screnshot/CA16.png)
+- [CA17.png](Screnshot/CA17.png)
+- [CA18.png](Screnshot/CA18.png)
 
 ## Configuration Steps (High-Level)
 
