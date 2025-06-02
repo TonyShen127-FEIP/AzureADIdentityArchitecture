@@ -1,0 +1,61 @@
+# ADFS (Active Directory Federation Services) Documentation
+
+## Overview
+
+Active Directory Federation Services (ADFS) is a Single Sign-On (SSO) solution developed by Microsoft. It provides users with authenticated access to applications and systems across organizational boundaries using a claims-based authentication model.
+
+## Key Features
+
+- **Single Sign-On (SSO):** Seamless access to multiple applications with a single set of credentials.
+- **Claims-Based Authentication:** Uses claims to communicate user identity and attributes.
+- **Federation:** Supports secure identity sharing between trusted partners (federation partners).
+- **Integration:** Works with Azure AD, Office 365, and other Microsoft or third-party services.
+
+## Core Components
+
+- **Federation Server:** Handles authentication requests and issues security tokens.
+- **Federation Server Proxy:** Forwards requests from external users to the federation server.
+- **ADFS Web Application Proxy:** Provides additional security for external access.
+- **Active Directory:** Stores user identities and credentials.
+
+## Typical Architecture
+
+1. **User attempts to access a federated application.**
+2. **Application redirects the user to ADFS for authentication.**
+3. **ADFS authenticates the user against Active Directory.**
+4. **ADFS issues a security token containing claims.**
+5. **User is redirected back to the application with the token.**
+6. **Application validates the token and grants access based on claims.**
+
+## Use Cases
+
+- Providing SSO for on-premises and cloud applications.
+- Secure collaboration with external partners.
+- Integrating legacy systems with modern authentication protocols (e.g., SAML, OAuth, WS-Federation).
+
+## Configuration Steps (High-Level)
+
+1. **Install ADFS Role:** Use Server Manager or PowerShell.
+2. **Configure SSL Certificates:** Required for secure communications.
+3. **Setup Federation Service:** Specify the federation service name (usually a domain name).
+4. **Add Relying Party Trusts:** Register applications that will trust ADFS.
+5. **Configure Claim Rules:** Define what claims are issued to each application.
+6. **Test Federation and SSO:** Verify that authentication and access work as expected.
+
+## Security Best Practices
+
+- Use strong SSL certificates.
+- Regularly update and patch ADFS servers.
+- Limit external access using firewalls and proxies.
+- Monitor and audit authentication logs.
+
+## Troubleshooting
+
+- **Authentication Failures:** Check certificates, claim rules, and federation trust settings.
+- **Token Issues:** Validate claim issuance and token signing.
+- **Connectivity Problems:** Ensure network access between ADFS, proxies, and Active Directory.
+
+## References
+
+- [Microsoft ADFS Documentation](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/)
+- [ADFS Best Practices](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/operations/ad-fs-best-practices)
