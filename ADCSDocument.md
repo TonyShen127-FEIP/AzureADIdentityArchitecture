@@ -2,24 +2,59 @@
 ## Overview
 A Certificate Authority (CA) in Windows Active Directory (AD) is a server that issues and manages digital certificates as part of a Public Key Infrastructure (PKI) environment. These certificates are used for securing communications, authenticating users and devices, enabling smart card logon, securing email, and more.
 
-- [CA01.png](Screnshot/CA01.png)
-- [CA02.png](Screnshot/CA02.png)
-- [CA03.png](Screnshot/CA03.png)
-- [CA04.png](Screnshot/CA04.png)
-- [CA05.png](Screnshot/CA05.png)
-- [CA06.png](Screnshot/CA06.png)
-- [CA07.png](Screnshot/CA07.png)
-- [CA08.png](Screnshot/CA08.png)
-- [CA09.png](Screnshot/CA09.png)
-- [CA10.png](Screnshot/CA10.png)
-- [CA11.png](Screnshot/CA11.png)
-- [CA12.png](Screnshot/CA12.png)
-- [CA13.png](Screnshot/CA13.png)
-- [CA14.png](Screnshot/CA14.png)
-- [CA15.png](Screnshot/CA15.png)
-- [CA16.png](Screnshot/CA16.png)
-- [CA17.png](Screnshot/CA17.png)
-- [CA18.png](Screnshot/CA18.png)
+## CA01
+![CA01](Screnshot/CA01.png)
+
+## CA02
+![CA02](Screnshot/CA02.png)
+
+## CA03
+![CA03](Screnshot/CA03.png)
+
+## CA04
+![CA04](Screnshot/CA04.png)
+
+## CA05
+![CA05](Screnshot/CA05.png)
+
+## CA06
+![CA06](Screnshot/CA06.png)
+
+## CA07
+![CA07](Screnshot/CA07.png)
+
+## CA08
+![CA08](Screnshot/CA08.png)
+
+## CA09
+![CA09](Screnshot/CA09.png)
+
+## CA10
+![CA10](Screnshot/CA10.png)
+
+## CA11
+![CA11](Screnshot/CA11.png)
+
+## CA12
+![CA12](Screnshot/CA12.png)
+
+## CA13
+![CA13](Screnshot/CA13.png)
+
+## CA14
+![CA14](Screnshot/CA14.png)
+
+## CA15
+![CA15](Screnshot/CA15.png)
+
+## CA16
+![CA16](Screnshot/CA16.png)
+
+## CA17
+![CA17](Screnshot/CA17.png)
+
+## CA18
+![CA18](Screnshot/CA18.png)
 
 ## Configuration Steps (High-Level)
 
