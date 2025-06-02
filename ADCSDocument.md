@@ -36,20 +36,23 @@ In the **Server Roles** list, check **Active Directory Certificate Services**.
 ![CA05](Screnshot/CA05.png)
 ![CA06](Screnshot/CA06.png)
 ![CA07](Screnshot/CA07.png)
-![CA08](Screnshot/CA08.png)
 
 ---
 
-## 7. Select Role Features
-Check **Certificate Enrollment Web Service** to enable web-based certificate enrollment.
+## 5. Select Role Features
+![CA08](Screnshot/CA08.png)
+
+## 6. Select Role Services
+Select **Certification Authority** for certificate issue
 
 ![CA09](Screnshot/CA09.png)
 ![CA10](Screnshot/CA10.png)
+
+Select **Certificate Enrollment Web Service** to enable web-based certificate enrollment.
 ![CA11](Screnshot/CA11.png)
+![CA12](Screnshot/CA12.png)
 
 Select **Certification Authority Web Enrollment** for web-based CA requests.
-
-![CA12](Screnshot/CA12.png)
 ![CA13](Screnshot/CA13.png)
 ![CA14](Screnshot/CA14.png)
 ![CA15](Screnshot/CA15.png)
@@ -57,14 +60,14 @@ Select **Certification Authority Web Enrollment** for web-based CA requests.
 
 ---
 
-## 12. Install the Roles and Features
+## 6. Install the Roles and Features
 Click **Install** to begin the installation process.
 
 ![CA17](Screnshot/CA17.png)
 
 ---
 
-## 13. Complete the Installation
+## 7. Complete the Installation
 Once the installation is finished, click **Close** to exit the wizard.
 
 ![CA18](Screnshot/CA18.png)
