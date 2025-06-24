@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/93afef43-9484-4c54-8799-b44ecf572540)# Useful Links and Documentation  
+# Useful Links and Documentation  
   
 ## Documentation Overview
 - [FIM Documentation Archive](https://docs.microsoft.com/en-us/previous-versions/mim/jj590185(v=ws.10)?redirectedfrom=MSDN)    
