@@ -20,13 +20,13 @@
 - [Global Address List Synchronization (GALSync)](http://technet.microsoft.com/en-us/library/cc708642(v=ws.10).aspx)
 - [Privileged Identity Management for AD DS with PAM](https://docs.microsoft.com/en-us/microsoft-identity-manager/pam/privileged-identity-management-for-active-directory-domain-services)    
   
-## Common Scenarios  
-- [Delete Connector Space: When, Why, and How](https://docs.microsoft.com/en-us/archive/blogs/connector_space/deleting-a-connector-space-when-why-and-how)    
+## Common Scenarios    
 - **Active Directory (AD) User Sync via FIM/MIM:**  
   - [How to Synchronize Users from Active Directory Domain Services to FIM](http://social.technet.microsoft.com/wiki/contents/articles/648.how-do-i-synchronize-users-from-active-directory-domain-services-to-fim.aspx)    
   - [Provision Users to Active Directory Domain Services](https://learn.microsoft.com/en-us/previous-versions/mim/ff686263(v=ws.10)?redirectedfrom=MSDN)    
   - [Provisioning Users with MIM to AD DS](https://docs.microsoft.com/en-us/microsoft-identity-manager/mim-how-provision-users-adds)    
-  - [Synchronize Users from AD to FIM](https://docs.microsoft.com/en-us/previous-versions/mim/ff686261(v=ws.10)?redirectedfrom=MSDN)    
+  - [Synchronize Users from AD to FIM](https://docs.microsoft.com/en-us/previous-versions/mim/ff686261(v=ws.10)?redirectedfrom=MSDN)
+[Delete Connector Space: When, Why, and How](https://docs.microsoft.com/en-us/archive/blogs/connector_space/deleting-a-connector-space-when-why-and-how)   
   
 ## Database Migration  
 - [How to Migrate FIM Backend Database to a New SQL Server](https://social.technet.microsoft.com/wiki/contents/articles/3876.fim-2010-how-to-migrate-fim-backend-database-to-new-sql-server.aspx#_UNINSTALL_/_REINSTALL)    
