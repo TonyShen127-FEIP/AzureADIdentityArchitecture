@@ -28,11 +28,11 @@
   - [Synchronize Users from AD to FIM](https://docs.microsoft.com/en-us/previous-versions/mim/ff686261(v=ws.10)?redirectedfrom=MSDN)
 
 - **Connectors:**
-- [Data source](https://learn.microsoft.com/en-us/previous-versions/mim/jj590352(v=ws.10)#connected-data-sources)
-- [Mangement Agents](https://learn.microsoft.com/en-us/previous-versions/mim/jj590352(v=ws.10)#management-agents)
-- [Types](https://learn.microsoft.com/en-us/previous-versions/mim/jj590352(v=ws.10)#management-agent-types)
-- [Extension](https://learn.microsoft.com/en-us/previous-versions/mim/jj590352(v=ws.10)#the-management-agent-for-extensible-connectivity)
-- [Delete Connector Space: When, Why, and How](https://docs.microsoft.com/en-us/archive/blogs/connector_space/deleting-a-connector-space-when-why-and-how)   
+  - [Data source](https://learn.microsoft.com/en-us/previous-versions/mim/jj590352(v=ws.10)#connected-data-sources)
+  - [Mangement Agents](https://learn.microsoft.com/en-us/previous-versions/mim/jj590352(v=ws.10)#management-agents)
+  - [Types](https://learn.microsoft.com/en-us/previous-versions/mim/jj590352(v=ws.10)#management-agent-types)
+  - [Extension](https://learn.microsoft.com/en-us/previous-versions/mim/jj590352(v=ws.10)#the-management-agent-for-extensible-connectivity)
+  - [Delete Connector Space: When, Why, and How](https://docs.microsoft.com/en-us/archive/blogs/connector_space/deleting-a-connector-space-when-why-and-how)   
   
 ## Database Migration  
 - [How to Migrate FIM Backend Database to a New SQL Server](https://social.technet.microsoft.com/wiki/contents/articles/3876.fim-2010-how-to-migrate-fim-backend-database-to-new-sql-server.aspx#_UNINSTALL_/_REINSTALL)    
