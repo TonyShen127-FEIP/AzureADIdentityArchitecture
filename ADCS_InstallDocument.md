@@ -11,68 +11,68 @@ This guide walks you through the process of installing the Active Directory Cert
 ## 1. Launch Add Roles and Features Wizard
 Open the Server Manager and select **Add Roles and Features** to begin the setup process.
 
-![CA01](Screnshot/CA01.png)
-![CA02](Screnshot/CA02.png)
+![CA01](Screenshot/ADCS/CA01.png)
+![CA02](Screenshot/ADCS/CA02.png)
 
 ---
 
 ## 2. Start the Wizard
 Proceed through the initial welcome screen of the Add Roles and Features Wizard.
 
-![CA03](Screnshot/CA03.png)
+![CA03](Screenshot/ADCS/CA03.png)
 
 ---
 
 ## 3. Select Destination Server
 Choose **Select a server from the server pool** and pick the server where you want to install the role.
 
-![CA04](Screnshot/CA04.png)
+![CA04](Screenshot/ADCS/CA04.png)
 
 ---
 
 ## 4. Select Server Roles
 In the **Server Roles** list, check **Active Directory Certificate Services**.
 
-![CA05](Screnshot/CA05.png)
-![CA06](Screnshot/CA06.png)
-![CA07](Screnshot/CA07.png)
+![CA05](Screenshot/ADCS/CA05.png)
+![CA06](Screenshot/ADCS/CA06.png)
+![CA07](Screenshot/ADCS/CA07.png)
 
 ---
 
 ## 5. Select Role Features (keep default)
-![CA08](Screnshot/CA08.png)
+![CA08](Screenshot/ADCS/CA08.png)
 
 ## 6. Select Role Services
-![CA09](Screnshot/CA09.png)
+![CA09](Screenshot/ADCS/CA09.png)
 
 Select **Certification Authority** for certificate issue
 
-![CA10](Screnshot/CA10.png)
-![CA11](Screnshot/CA11.png)
+![CA10](Screenshot/ADCS/CA10.png)
+![CA11](Screenshot/ADCS/CA11.png)
 
 Select **Certificate Enrollment Web Service** to enable web-based certificate enrollment.
 
-![CA12](Screnshot/CA12.png)
-![CA13](Screnshot/CA13.png)
+![CA12](Screenshot/ADCS/CA12.png)
+![CA13](Screenshot/ADCS/CA13.png)
 
 Select **Certification Authority Web Enrollment** for web-based CA requests.
-![CA14](Screnshot/CA14.png)
-![CA15](Screnshot/CA15.png)
-![CA16](Screnshot/CA16.png)
+![CA14](Screenshot/ADCS/CA14.png)
+![CA15](Screenshot/ADCS/CA15.png)
+![CA16](Screenshot/ADCS/CA16.png)
 
 ---
 
 ## 6. Install the Roles and Features
 Click **Install** to begin the installation process.
 
-![CA17](Screnshot/CA17.png)
+![CA17](Screenshot/ADCS/CA17.png)
 
 ---
 
 ## 7. Complete the Installation
 Once the installation is finished, click **Close** to exit the wizard.
 
-![CA18](Screnshot/CA18.png)
+![CA18](Screenshot/ADCS/CA18.png)
 
 ---
 ## Configuration Steps (High-Level)
